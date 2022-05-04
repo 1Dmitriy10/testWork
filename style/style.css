@@ -117,7 +117,7 @@ body {
 
 .header {
   min-height: 807px;
-  background: url(../../assets/img/header/header-bg2.png) no-repeat bottom, url(../../assets/img/header/header-bg.png) no-repeat top;
+  background: url(../assets/img/header/header-bg2.png) no-repeat bottom, url(../../assets/img/header/header-bg.png) no-repeat top;
   position: relative;
   padding-bottom: 64px;
 }
@@ -149,7 +149,7 @@ body {
 }
 
 .header__top-logo {
-  background-image: url(../../assets/img/header/header-logo.png);
+  background-image: url(../assets/img/header/header-logo.png);
   height: auto;
   background-repeat: no-repeat;
   background-size: cover;
@@ -164,7 +164,7 @@ body {
 }
 
 .header__top-whatsapp {
-  background-image: url(../../assets/img/header/header-whatsapp.png);
+  background-image: url(../assets/img/header/header-whatsapp.png);
   height: auto;
   background-repeat: no-repeat;
   background-size: cover;
@@ -173,7 +173,7 @@ body {
 }
 
 .header__top-telegram {
-  background-image: url(../../assets/img/header/header-telegram.png);
+  background-image: url(../assets/img/header/header-telegram.png);
   height: auto;
   background-repeat: no-repeat;
   background-size: cover;
@@ -263,7 +263,7 @@ body {
 }
 
 .header-book {
-  background-image: url(../../assets/img/header/header-book.png);
+  background-image: url(../assets/img/header/header-book.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 156px;
@@ -274,7 +274,7 @@ body {
 }
 
 .haeder-arrow {
-  background-image: url(../../assets/img/header/header-arow.svg);
+  background-image: url(../assets/img/header/header-arow.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 149px;
@@ -285,7 +285,7 @@ body {
 }
 
 .header-btn {
-  background-image: url(../../assets/img/header/header-btn.png);
+  background-image: url(../assets/img/header/header-btn.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 292px;
@@ -297,7 +297,7 @@ body {
 }
 
 .header-arrow2 {
-  background-image: url(../../assets/img/header/header-arrow2.svg);
+  background-image: url(../assets/img/header/header-arrow2.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 12px;
@@ -365,7 +365,7 @@ body {
 }
 
 .info-dark-ellepse {
-  background: url(../../assets/img/info/info-dark-ellipse.png) no-repeat;
+  background: url(../assets/img/info/info-dark-ellipse.png) no-repeat;
   width: 88px;
   height: 88px;
   position: absolute;
@@ -374,7 +374,7 @@ body {
 }
 
 .info-white-ellepse {
-  background: url(../../assets/img/info/info-white-ellipse.png) no-repeat left;
+  background: url(../assets/img/info/info-white-ellipse.png) no-repeat left;
   width: 88px;
   height: 88px;
   position: absolute;
@@ -383,7 +383,7 @@ body {
 }
 
 .info-logo-play {
-  background: url(../../assets/img/info/info-logo-play.svg) no-repeat;
+  background: url(../assets/img/info/info-logo-play.svg) no-repeat;
   width: 88px;
   height: 88px;
   position: absolute;
@@ -393,7 +393,7 @@ body {
 }
 
 .info-video-bg {
-  background: url(../../assets/img/info/info-video-bg.png) no-repeat;
+  background: url(../assets/img/info/info-video-bg.png) no-repeat;
   width: 88px;
   height: 88px;
   position: absolute;
@@ -402,7 +402,7 @@ body {
 }
 
 .info-map-logo {
-  background: url(../../assets/img/info/info-map.svg) no-repeat;
+  background: url(../assets/img/info/info-map.svg) no-repeat;
   width: 25px;
   height: 33px;
   position: absolute;
@@ -412,7 +412,7 @@ body {
 }
 
 .info-map-white-bg {
-  background: url(../../assets/img/info/info-map-white-bg.png) no-repeat;
+  background: url(../assets/img/info/info-map-white-bg.png) no-repeat;
   width: 88px;
   height: 88px;
   position: absolute;
@@ -512,7 +512,7 @@ body {
 }
 
 .gallery-slider-prev {
-  background: url(../../assets/img/gallery/gallery-slider-arrow-left.png) no-repeat;
+  background: url(../assets/img/gallery/gallery-slider-arrow-left.png) no-repeat;
   width: 121px;
   height: 121px;
   left: 265px;
@@ -521,7 +521,7 @@ body {
 }
 
 .gallery-slider-next {
-  background: url(../../assets/img/gallery/gallary-slider-arrow-right.png) no-repeat;
+  background: url(../assets/img/gallery/gallary-slider-arrow-right.png) no-repeat;
   width: 121px;
   height: 121px;
   right: 265px;
@@ -575,7 +575,7 @@ body {
 }
 
 .gallery__expert-prev {
-  background: url(../../assets/img/gallery/expert-prev.svg) no-repeat;
+  background: url(../assets/img/gallery/expert-prev.svg) no-repeat;
   width: 61px;
   height: 61px;
   left: 467px;
@@ -585,7 +585,7 @@ body {
 }
 
 .gallery__expert-next {
-  background: url(../../assets/img/gallery/expert-next.svg) no-repeat;
+  background: url(../assets/img/gallery/expert-next.svg) no-repeat;
   width: 61px;
   height: 61px;
   right: 307px;
@@ -596,7 +596,7 @@ body {
 
 .presentation {
   min-height: 1126px;
-  background: url(../../assets/img/presentation/presentation-book-bg.png) right 92px bottom no-repeat, url(../../assets/img/presentation/presentation-fog-bg.png) bottom no-repeat, url(../../assets/img/presentation/presentation-fog-top-bg.png) top no-repeat, url(../../assets/img/presentation/presentation-bg.png) right top no-repeat;
+  background: url(../assets/img/presentation/presentation-book-bg.png) right 92px bottom no-repeat, url(../assets/img/presentation/presentation-fog-bg.png) bottom no-repeat, url(../../assets/img/presentation/presentation-fog-top-bg.png) top no-repeat, url(../../assets/img/presentation/presentation-bg.png) right top no-repeat;
 }
 
 .presentation__titlte {
@@ -678,7 +678,7 @@ body {
 }
 
 .layouts-btn-bg {
-  background-image: url(../../assets/img/layouts/layouts-btn-bg.png);
+  background-image: url(../assets/img/layouts/layouts-btn-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   left: 3px;
@@ -706,7 +706,7 @@ body {
 
 .video {
   min-height: 534px;
-  background: url(../../assets/img/video/video-bg-player.png) right 577px top 146px no-repeat, url(../../assets/img/video/video-bg-img.png) right 347px top 6px no-repeat, url(../../assets/img/video/video-bg-noyt.png) right 273px top -38px no-repeat, url(../../assets/img/video/video-bg-text.png) no-repeat;
+  background: url(../assets/img/video/video-bg-player.png) right 577px top 146px no-repeat, url(../assets/img/video/video-bg-img.png) right 347px top 6px no-repeat, url(../../assets/img/video/video-bg-noyt.png) right 273px top -38px no-repeat, url(../../assets/img/video/video-bg-text.png) no-repeat;
   padding-bottom: 150px;
 }
 
@@ -756,7 +756,7 @@ body {
   justify-content: space-between;
   position: relative;
   padding-bottom: 47px;
-  background: url(../../assets/img/about/about-bg.svg) left -76px bottom no-repeat;
+  background: url(../assets/img/about/about-bg.svg) left -76px bottom no-repeat;
 }
 
 .about__content-text {
@@ -788,7 +788,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  background: url(../../assets/img/mortgage/mortgage-bg-img.png) no-repeat bottom 6px right 207px, url(../../assets/img/mortgage/mortgage-bg.png) no-repeat 0 114px;
+  background: url(../assets/img/mortgage/mortgage-bg-img.png) no-repeat bottom 6px right 207px, url(../assets/img/mortgage/mortgage-bg.png) no-repeat 0 114px;
 }
 
 .mortgage-container {
@@ -853,7 +853,7 @@ body {
   z-index: 10;
   width: 17.6px;
   height: 11.3px;
-  background: url(../../assets/img/mortgage/mortgage-check.svg) no-repeat;
+  background: url(../assets/img/mortgage/mortgage-check.svg) no-repeat;
 }
 
 .mortgage__item-text {
@@ -905,11 +905,11 @@ body {
   left: 4px;
   top: 55px;
   z-index: 5;
-  background: url(../../assets/img/mortgage/mortgage-btn-bg.png) no-repeat;
+  background: url(../assets/img/mortgage/mortgage-btn-bg.png) no-repeat;
 }
 
 .mortgage__btn-key {
-  background: url(../../assets/img/mortgage/mortgage-btn-key.png) no-repeat;
+  background: url(../assets/img/mortgage/mortgage-btn-key.png) no-repeat;
   width: 134px;
   height: 52px;
   position: absolute;
@@ -920,7 +920,7 @@ body {
 
 .declaration {
   min-height: 600px;
-  background: url(../../assets/img/declaration/declaration__img.png) 846px 151px no-repeat, url(../../assets/img/declaration/declaration__bg-fog.png) no-repeat 0 -122px;
+  background: url(../assets/img/declaration/declaration__img.png) 846px 151px no-repeat, url(../assets/img/declaration/declaration__bg-fog.png) no-repeat 0 -122px;
 }
 
 .declaration-container {
@@ -969,7 +969,7 @@ body {
   z-index: 10;
   width: 17.6px;
   height: 11.3px;
-  background: url(../../assets/img/declaration/declaration-check.svg) no-repeat;
+  background: url(../assets/img/declaration/declaration-check.svg) no-repeat;
 }
 
 .map {
@@ -977,7 +977,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  background: url(../../assets/img/map/map-bg-fog.png) no-repeat 312px -122px;
+  background: url(../assets/img/map/map-bg-fog.png) no-repeat 312px -122px;
 }
 
 .map-container {
@@ -1087,7 +1087,7 @@ body {
 }
 
 .form-btn-bg {
-  background: url(../../assets/img/map/form=btn-bg.png);
+  background: url(../assets/img/map/form=btn-bg.png);
   width: 340px;
   height: 70px;
   z-index: 1;
@@ -1128,7 +1128,7 @@ body {
 }
 
 .footer-btn-bg {
-  background: url(../../assets/img/footer/footer-btn-bg.png);
+  background: url(../assets/img/footer/footer-btn-bg.png);
   width: 258px;
   height: 70px;
   top: 16px;
